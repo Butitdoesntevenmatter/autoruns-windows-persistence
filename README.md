@@ -117,7 +117,7 @@ After restarting or logging in again, the script runs automatically, confirming 
 ---
 
 ## Key Takeaways
-- Terminating a process is not enough — persistence can bring it back  
+- Terminating a process is not enough, persistence can bring it back  
 - Autoruns helps identify hidden autorun entries  
 - Understanding startup locations is essential in Incident Response  
 
